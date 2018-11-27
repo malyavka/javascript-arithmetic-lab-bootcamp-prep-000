@@ -24,3 +24,7 @@ n--;
 return n;
 }
 
+
+function makeInt(n) {
+  
+}
