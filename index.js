@@ -25,6 +25,7 @@ return n;
 }
 
 
-function makeInt(n) {
-  
+function makeInt('n') {
+let newN = parseInt('n', 10);
+return newN;
 }
