@@ -35,5 +35,6 @@ return newN;
 }
 
 function preserveDecimal(n) {
-  
+  let x = parseFloat(n);
+  return x;
 }
